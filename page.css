@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.poadcast-home {
+    height: 100vh;
+}
+
+.homepage-image {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+    height: 30vh;
+    background-size: cover;
+    width: 100%;
+}
+
+.homepage-heading {
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: 500;
+    color: #ffffff;
+    padding: 20px;
+}
+
+.homepage-list {
+    padding: 15px;
+    align-content: center;
+}
+
+.homepage-list-item {
+    margin: 10px;
+    text-align: center;
+}
+
+.homepage-list-item-image {
+    width: 150px;
+    height: 130px;
+    margin-top: 10px;
+}
+
+.homepage-list-item-name {
+    font-family: "Roboto";
+    font-size: 20px;
+    color: #151765;
+    font-style: normal;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 5px;
+}
+
+.homepage-list-item-number {
+    font-family: "Roboto";
+    font-size: 16px;
+    color: #5a7184;
+    font-style: normal;
+    font-weight: 500;
+    text-align: center;
+}
+
+.podcast_head {
+    background-color: #151765;
+    padding: 25px;
+    margin-bottom: 10px;
+}
+
+.podcast_image {
+    height: 140px;
+    width: 180px;
+}
+
+.podcast_head_content {
+    color: white;
+    padding-left: 10px;
+}
+
+.podcast_head_content_1 {
+    font-family: "Roboto";
+    font-size: 13px;
+
+}
+
+.podcast_head_content_title {
+    margin-top: 18px;
+    font-size: 20px;
+    font-family: "Roboto";
+    font-weight: 700;
+}
+
+.podcast_head_content_discription {
+    margin-top: 6px;
+    font-size: 13px;
+    font-family: "Roboto";
+    font-weight: 300;
+}
+
+.podcast_item {
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-bottom: 5px;
+}
+
+.podcast_item_content {
+    padding-left: 10px;
+}
+
+.podcast_item_title {
+    margin-top: 10px;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 700;
+    font-style: normal;
+    color: #151765;
+}
+
+.podcast_item_discription {
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: 300;
+    font-style: normal;
+    color: #5a7184;
+}
+
+.podcast_item_time {
+
+    font-family: "Roboto";
+    font-size: 8px;
+    font-weight: 300;
+    font-style: normal;
+    color: #5a7184;
+}
+
+.podcast_item_button {
+    margin-right: 10px;
+    margin-bottom: 8px;
+    width: 89px;
+    color: white;
+    border-radius: 20px;
+    background-color: #151765;
+    border-width: 0px;
+}
